@@ -1,4 +1,4 @@
-# This repository contains the code for the paper " MANet:MemoryAttentionNetworksforTraffic ForecastinginIntelligentTransportationSystems".
+# This repository contains the code for the paper " MANet: Memory Attention Networks for Traffic Forecasting in Intelligent Transportation Systems".
 ## Datasets 
 click [Download](https://pan.baidu.com/s/1cMDlDEjz91yE4k0qBU8RBA?pwd=fs5r) to get datasets.
 ## Requirements 
